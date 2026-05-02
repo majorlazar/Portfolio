@@ -40,7 +40,7 @@ I enjoy building scalable web applications and continuously learning new technol
 ---
 
 ## 📸 Screenshots
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/Home.png)
 
 
 
