@@ -3,13 +3,13 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a Software Developer.
 
-🔗 Live Demo: https://your-username.github.io/your-repo-name/
+🔗 Live Demo: [Click Here](https://majorlazar.github.io/Portfolio/)
 
 ---
 
 ## 📌 About Me
 
-Hi, I'm **[Your Name]** 👋  
+Hi, I'm **Christylazar Antony** 👋  
 I am a passionate **Software Developer** with experience in:
 
 - Python
@@ -40,8 +40,7 @@ I enjoy building scalable web applications and continuously learning new technol
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots here)
-
-```bash
 ![Home Page](./screenshots/home.png)
+
+
+
